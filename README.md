@@ -1,6 +1,10 @@
 I developed a Machine Learning Model in Python with a CNN architecture for diabetes detection, using tongue images as input. 
 I got the dataset from Roboflow, a platform similar to Kaggle that offers picture classification challenges and machine learning datasets, as well as tools for generating and developing models. 
+
+
 It can be accessed from :
+
+
 @misc{
                             diabetes-tongue-classification_dataset,
                             title = { Diabetes Tongue Classification Dataset },
